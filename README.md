@@ -1,3 +1,5 @@
+Task: Price Range Distribution
+
 Objective:
 Visualize the distribution of restaurant price ranges and calculate
 the percentage of restaurants in each category.
